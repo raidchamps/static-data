@@ -17,6 +17,7 @@ The data available in this repository has been sourced from:
 * (Original Unmaintained Repo) [PatPat1567/RaidShadowLegendsData](https://github.com/PatPat1567/RaidShadowLegendsData)
 * (Game) [Raid: Shadow Legends](https://plarium.com/en/mobile-games/raid-shadow-legends/)
 * (Website) [Ayumilove](https://ayumilove.net/raid-shadow-legends-guide/)
+* (Website) [RaidChamps.com](https://raidchamps.com)
 
 # Todo
 
