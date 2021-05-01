@@ -1,0 +1,83 @@
+﻿---
+collection: champion
+slug: aristocrat
+title: aristocrat
+type: Stat_Placeholder
+rarity: 4 Uncommon
+raidcodexLink: https://raid-codex.com/champions/aristocrat/
+ayumiloveLink: https://ayumilove.net/raid-shadow-legends-aristocrat-skill-mastery-equip-guide/
+hellHadesLink:
+raidcodexRating: ★★☆☆☆
+ayumiloveRating: 3 B
+hellHadesScore: 0
+choseNScore:
+choseNLink:
+choseNInfographicLinkID:
+choseNBookValue:
+farmableAt:
+teamRole:
+affinity: Magic
+faction: High Elves
+auraLocation:
+auraStat:
+auraPercentage:
+auraFlatIncrease:
+neededForFusion:
+- Foli
+damageBasedOn: Attack
+isThisFood: No
+specialAOneAbilities:
+specialAOneAbilities_MultipleAttacks:
+specialAOneAbilities_P:
+buffAbilities:
+buffAbilities_Name:
+buffAbilities_Targets:
+buffAbilities_Turns:
+buffAbilities_P:
+buffAbilities_Cooldown:
+buffAbilities_Cooldown_Booked:
+buffAbilities_SpecialConditions:
+debuffAbilities:
+debuffAbilities_Name:
+debuffAbilities_Targets:
+debuffAbilities_Turns:
+debuffAbilities_P:
+debuffAbilities_ChanceP:
+debuffAbilities_ChanceP_Booked:
+debuffAbilities_Cooldown:
+debuffAbilities_Cooldown_Booked:
+debuffAbilities_SpecialConditions:
+instantAbilities:
+instantAbilities_Name:
+instantAbilities_Targets:
+instantAbilities_P:
+instantAbilities_P_Booked:
+instantAbilities_ChanceP:
+instantAbilities_ChanceP_Booked:
+instantAbilities_Cooldown:
+instantAbilities_Cooldown_Booked:
+instantAbilities_SpecialConditions:
+instantAbilities_Turns:
+passiveAbilities:
+passiveAbilities_Name:
+passiveAbilities_Targets:
+passiveAbilities_P:
+passiveAbilities_P_Booked:
+passiveAbilities_ChanceP:
+passiveAbilities_ChanceP_Booked:
+passiveAbilities_Cooldown:
+passiveAbilities_Cooldown_Booked:
+passiveAbilities_SpecialConditions:
+partnerSkill: No
+statPriorities:
+specialties:
+everywhereMasteries:
+clanBossDungeonMasteries:
+arenaCampaignFactionWarsMasteries:
+videoGuides:
+image: ./image.png
+imageWebp: ./image.webp
+draft: false
+hide: false
+---
+

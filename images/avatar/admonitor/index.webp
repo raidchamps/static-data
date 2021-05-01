@@ -1,0 +1,94 @@
+﻿---
+collection: champion
+slug: admonitor
+title: admonitor
+type: HP
+rarity: 4 Uncommon
+raidcodexLink: https://raid-codex.com/champions/admonitor/
+ayumiloveLink: https://ayumilove.net/raid-shadow-legends-admonitor-skill-mastery-equip-guide/
+hellHadesLink:
+raidcodexRating: ★★☆☆☆
+ayumiloveRating: 5 F
+hellHadesScore: 0
+choseNScore:
+choseNLink:
+choseNInfographicLinkID:
+choseNBookValue:
+farmableAt: 11. Hallowed Halls
+teamRole:
+affinity: Force
+faction: Knight Revenant
+damageBasedOn: Attack
+isThisFood: No
+specialAOneAbilities:
+specialAOneAbilities_MultipleAttacks:
+specialAOneAbilities_P:
+buffAbilities:
+buffAbilities_Name:
+ - Shield (10% Damage Inflicted) on Self for 1 Turn
+ - Ally Protection (50%) on Target Ally for 1 Turn
+buffAbilities_Targets: Self, Target Ally
+buffAbilities_Turns: 1
+buffAbilities_P:
+buffAbilities_Cooldown:
+buffAbilities_Cooldown_Booked:
+buffAbilities_SpecialConditions:
+debuffAbilities:
+debuffAbilities_Name:
+debuffAbilities_Targets:
+debuffAbilities_Turns:
+debuffAbilities_P:
+debuffAbilities_ChanceP:
+debuffAbilities_ChanceP_Booked:
+debuffAbilities_Cooldown:
+debuffAbilities_Cooldown_Booked:
+debuffAbilities_SpecialConditions:
+instantAbilities:
+instantAbilities_Name:
+instantAbilities_Targets:
+instantAbilities_P:
+instantAbilities_P_Booked:
+instantAbilities_ChanceP:
+instantAbilities_ChanceP_Booked:
+instantAbilities_Cooldown:
+instantAbilities_Cooldown_Booked:
+instantAbilities_SpecialConditions:
+instantAbilities_Turns:
+passiveAbilities:
+passiveAbilities_Name:
+passiveAbilities_Targets:
+passiveAbilities_P:
+passiveAbilities_P_Booked:
+passiveAbilities_ChanceP:
+passiveAbilities_ChanceP_Booked:
+passiveAbilities_Cooldown:
+passiveAbilities_Cooldown_Booked:
+passiveAbilities_SpecialConditions:
+partnerSkill: No
+statPriorities:
+  - Attack%
+  - Critical Rate
+  - Critical Damage
+  - Speed
+everywhereMasteries:
+  - Deadly Precision
+  - Keen Strike
+  - Grim Resolve
+  - Life Drinker
+  - Whirlwind of Death
+  - Bring it Down
+  - Wrath of the Slain
+  - Kill Streak
+  - Blood Shield
+  - Warmaster
+  - Steadfast
+  - Shieldbearer
+  - Healing Savior
+  - Cycle of Magic
+  - Lasting Gifts
+image: ./image.png
+imageWebp: ./image.webp
+draft: false
+hide: false
+---
+

@@ -1,0 +1,81 @@
+﻿---
+collection: champion
+slug: axeman
+title: axeman
+type: 
+rarity: 
+raidcodexLink: https://raid-codex.com/champions/axeman/
+ayumiloveLink: https://ayumilove.net/raid-shadow-legends-axeman-skill-mastery-equip-guide/
+hellHadesLink:
+raidcodexRating: ★★★☆☆
+ayumiloveRating: 
+hellHadesScore: 
+choseNScore: 
+choseNLink:
+choseNInfographicLinkID:
+choseNBookValue: 
+farmableAt: 
+teamRole: 
+affinity: affinity_Placeholder
+faction: faction_Placeholder
+auraLocation: 
+auraStat: 
+auraPercentage: 
+auraFlatIncrease: 
+neededForFusion: 
+damageBasedOn: 
+isThisFood: No
+specialAOneAbilities:
+specialAOneAbilities_P:
+buffAbilities:
+buffAbilities_Name:
+buffAbilities_Targets:
+buffAbilities_Turns:
+buffAbilities_P:
+buffAbilities_Cooldown:
+buffAbilities_Cooldown_Booked:
+buffAbilities_SpecialConditions:
+debuffAbilities:
+debuffAbilities_Name:
+debuffAbilities_Targets:
+debuffAbilities_Turns:
+debuffAbilities_P:
+debuffAbilities_ChanceP:
+debuffAbilities_ChanceP_Booked:
+debuffAbilities_Cooldown:
+debuffAbilities_Cooldown_Booked:
+debuffAbilities_SpecialConditions:
+instantAbilities:
+instantAbilities_Name:
+instantAbilities_Targets:
+instantAbilities_P:
+instantAbilities_P_Booked:
+instantAbilities_ChanceP:
+instantAbilities_ChanceP_Booked:
+instantAbilities_Cooldown:
+instantAbilities_Cooldown_Booked:
+instantAbilities_SpecialConditions:
+instantAbilities_Turns:
+passiveAbilities:
+passiveAbilities_Name:
+passiveAbilities_Targets:
+passiveAbilities_P:
+passiveAbilities_P_Booked:
+passiveAbilities_ChanceP:
+passiveAbilities_ChanceP_Booked:
+passiveAbilities_Cooldown:
+passiveAbilities_Cooldown_Booked:
+passiveAbilities_SpecialConditions:
+partnerSkill: No
+statPriorities:
+specialties:
+everywhereMasteries: 
+clanBossDungeonMasteries:
+arenaCampaignFactionWarsMasteries:
+videoGuides: 
+image: ./image.png
+imageWebp: ./image.webp
+draft: false
+hide: false
+---
+

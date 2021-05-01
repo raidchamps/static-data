@@ -1,0 +1,101 @@
+﻿---
+collection: champion
+slug: archer
+title: archer
+type: Stat_Placeholder
+rarity: 4 Uncommon
+raidcodexLink: https://raid-codex.com/champions/archer/
+ayumiloveLink: https://ayumilove.net/raid-shadow-legends-archer-skill-mastery-equip-guide/
+hellHadesLink:
+raidcodexRating: ★★★☆☆
+ayumiloveRating: 2 A
+hellHadesScore: 0
+choseNScore:
+choseNLink:
+choseNInfographicLinkID:
+choseNBookValue:
+farmableAt:
+teamRole:
+affinity: Magic
+faction: Banner Lords
+auraLocation:
+auraStat:
+auraPercentage:
+auraFlatIncrease:
+neededForFusion:
+damageBasedOn: Attack
+isThisFood: No
+specialAOneAbilities:
+ - Attack Single Enemy 2 Times
+ - Extra Critical Hit Chance (15%)
+specialAOneAbilities_MultipleAttacks: Attack Single Enemy 2 Times
+specialAOneAbilities_P:
+buffAbilities:
+buffAbilities_Name:
+buffAbilities_Targets:
+buffAbilities_Turns:
+buffAbilities_P:
+buffAbilities_Cooldown:
+buffAbilities_Cooldown_Booked:
+buffAbilities_SpecialConditions:
+debuffAbilities:
+ - Decrease Speed (15%) on All Enemies for 1 Turn
+debuffAbilities_Name:
+debuffAbilities_Targets:
+debuffAbilities_Turns:
+debuffAbilities_P:
+debuffAbilities_ChanceP:
+debuffAbilities_ChanceP_Booked:
+debuffAbilities_Cooldown:
+debuffAbilities_Cooldown_Booked:
+debuffAbilities_SpecialConditions:
+instantAbilities:
+ - Fill Turn Meter (15%) of Self if Crit
+instantAbilities_Name:
+instantAbilities_Targets:
+instantAbilities_P:
+instantAbilities_P_Booked:
+instantAbilities_ChanceP:
+instantAbilities_ChanceP_Booked:
+instantAbilities_Cooldown:
+instantAbilities_Cooldown_Booked:
+instantAbilities_SpecialConditions:
+instantAbilities_Turns:
+passiveAbilities:
+passiveAbilities_Name:
+passiveAbilities_Targets:
+passiveAbilities_P:
+passiveAbilities_P_Booked:
+passiveAbilities_ChanceP:
+passiveAbilities_ChanceP_Booked:
+passiveAbilities_Cooldown:
+passiveAbilities_Cooldown_Booked:
+passiveAbilities_SpecialConditions:
+partnerSkill: No
+statPriorities:
+specialties:
+everywhereMasteries:
+ - Deadly Precision
+ - Keen Strike
+ - Shield Breaker
+ - Whirlwind of Death
+ - Single Out
+ - Cycle of Violence
+ - Bring it Down
+ - Kill Streak
+ - Blood Shield
+ - Warmaster
+ - Defiant
+ - Improved Parry
+ - Bloodthirst
+ - Delay Death
+ - Retribution
+clanBossDungeonMasteries:
+arenaCampaignFactionWarsMasteries:
+videoGuides:
+image: ./image.png
+imageWebp: ./image.webp
+draft: false
+hide: false
+---
+
