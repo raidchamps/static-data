@@ -2,14 +2,6 @@
 
 This repository provides resources for Raid Shadow Legends. Anyone is allowed and encouraged to contribute by creating a pull request.
 
-# Champion lists
-
-* [Champions by rarity](/champions-by-rarity.json)
-* [Champions by affinity](/champions-by-affinity.json)
-* [Champions by faction](/champions-by-faction.json)
-* [Champions by role](/champions-by-role.json)
-* [Champions base-info](/champions-base-info.json)
-
 # Credits
 
 The data available in this repository has been sourced from:
