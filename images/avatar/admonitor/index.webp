@@ -17,7 +17,7 @@ choseNBookValue:
 farmableAt: 11. Hallowed Halls
 teamRole:
 affinity: Force
-faction: Knight Revenant
+faction: Knights Revenant
 damageBasedOn: Attack
 isThisFood: No
 specialAOneAbilities:
