@@ -10,6 +10,7 @@ The data available in this repository has been sourced from:
 * (Game) [Raid: Shadow Legends](https://plarium.com/en/mobile-games/raid-shadow-legends/)
 * (Website) [Ayumilove](https://ayumilove.net/raid-shadow-legends-guide/)
 * (Website) [RaidChamps.com](https://raidchamps.com)
+* (Website) [HellHades.com](https://hellhades.com)
 
 # Todo
 
